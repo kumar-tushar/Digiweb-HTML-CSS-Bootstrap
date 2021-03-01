@@ -1,16 +1,3 @@
-
-
-
-
-
-
-
-
-
-
-
-
-
 a{font-family:sans-serif;
 }
 
@@ -40,7 +27,8 @@ padding: 0px 0px 0px 0px;}
     background-position: fixed;
     
 }
-
+.mt-2,.nav-link{
+font-size:20px;}
 .container-fluid1 {border-top: 20px;
 
     padding:50px 200px 50px 200px;
@@ -75,8 +63,7 @@ font-size:32px;}
    
    
 }
-.mt-2,.nav-link{
-font-size:20px;}
+
 
 h1,h3,h5{
      letter-spacing :3px;}
