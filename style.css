@@ -80,7 +80,8 @@ font-size:20px;}
 
 h1,h3,h5{
      letter-spacing :3px;}
-h3{color:white;
+h3{color:black;
+ font-weight:bolder;
 font-size:25px;}
 
 .card{
