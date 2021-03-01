@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 a{font-family:sans-serif;
 }
@@ -138,3 +139,163 @@ padding: 20px 50px 20px 50px;
 
 
 
+=======
+
+
+
+
+a{font-family:sans-serif;
+}
+
+footer
+{
+padding-top: 1em;
+background-color:rgb(120, 163, 192);
+
+
+}
+h5{color:black;}
+
+p{color:whitesmoke;}
+i{color:white;}
+.id
+{color:black;
+ letter-spacing:1.2px;
+ font-size:20px;
+ 
+padding: 0px 0px 0px 0px;}
+.btn{font-weight:bolder;}
+
+
+.container-fluid1,.card
+{background-attachment:fixed; 
+    background-repeat:no-repeat;
+    background-position: fixed;
+    
+}
+
+.container-fluid1 {border-top: 20px;
+
+    padding:50px 200px 50px 200px;
+    background-attachment:fixed;
+       background-position:cover;
+       background-repeat:no-repeat;
+       background-image:url(images/network-4556932.jpg);
+
+
+}
+h1{font-style: italic;
+    color:black;
+    font-weight: bold;
+font-size:32px;}
+
+.container-fluid {
+   
+    padding:25px 80px 25px 80px;
+   height:470px;
+   background-attachment:fixed;
+   background-position:cover;
+   background-repeat:no-repeat;
+   background-image:url(images/network-4556932.jpg);
+}
+.container-fluid3 {
+   
+    padding:50px 80px 80px 80px;
+    background-attachment:fixed;
+    background-position:cover;
+    background-repeat:no-repeat;
+    background-image:url(images/network-4556932.jpg);
+   
+   
+}
+.mt-2,.nav-link{
+font-size:20px;}
+
+h1,h3,h5{
+     letter-spacing :3px;}
+h3{color:white;
+font-size:25px;}
+
+.card{
+    background-attachment:fixed;
+    background-position:cover;
+    background-repeat:no-repeat;
+    background-image:url(images/network-4556932.jpg);
+padding: 10px 20px 5px 20px;
+}
+
+
+
+
+
+@media(max-width:600px)
+{
+    .i{min-height: 10%;
+    min-width: none;}
+    
+    
+    
+    img
+    { max-width: 100%;
+        height: auto; }
+
+        .container-fluid1
+        {padding: 20px 40px 20px 40px;}
+        .container-fluid3
+        {padding: 40px 90px 40px 90px;}
+        .container-fluid
+        {padding: 300px 20px 30px 20px;}
+        .card{padding: 10px 10px 10px 10px;}
+        h3,.mt-2{font-size: 5rem;}
+ h1,h2,h4,h5,.mt-2
+ {font-size:1.25rem;}
+
+ .id,p
+ {font-size:0.85rem;}
+
+ .container-fluid {
+   
+      height: auto;
+ }
+
+}
+
+@media(max-width:768px)
+{
+    .i{min-height: 10%;
+    min-width: none;}
+    
+    
+    
+    img
+    { max-width: 100%;
+        height: auto; }
+
+.container-fluid1
+{padding: 20px 40px 20px 40px;}
+
+.container-fluid
+{padding: 1px 20px 1px 20px;}
+.card{padding: 10px 10px 10px 10px;}
+ h1,h2,h4,h5
+ {font-size:1.25rem;}
+ 
+ .mt{font-size:1.25rem;}
+ .id,h3,p
+ {font-size:0.85rem;}
+
+ .container-fluid {
+   
+      height: auto;
+    
+ }
+
+}
+
+
+
+
+
+
+
+>>>>>>> d0bcb05 (third commit)
