@@ -147,11 +147,11 @@ padding: 10px 20px 5px 20px;
 .container-fluid
 {padding: 18px 20px 1px 20px;}
 .card{padding: 10px 10px 10px 10px;}
-h1,h2,h4,h5
+h1,h2,h5
 {font-size:1.25rem;}
 
 .mt{font-size:1.25rem;}
-.id,h3,p
+.id,h3,p,h4
 {font-size:1rem;}
 
  .container-fluid {
