@@ -1,0 +1,117 @@
+.idx
+{padding:  65px 30px 65px 30px;
+font-family: 'Anton', sans-serif;}
+footer
+{padding-top: 0.5em;
+background-color:rgb(13, 43, 61);}
+
+.navbar
+{height: 70px;}
+
+.mt-2,.nav-link
+{font-size:19px;}
+
+h3
+{color:black;
+font-weight:bolder;
+font-size:25px;}
+
+
+h5
+{color:black;
+font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;}
+.container-fluid 
+{padding:40px 80px 40px 80px;
+height:470px;}
+h1
+{
+color:black;
+font-weight: bold;
+font-size:30px;
+}
+.container-fluid1,.card,.container-fluid,.container-fluid4,.container-fluid3
+{
+    background: url(images/network-4556932.jpg) no-repeat fixed ;
+
+}
+
+.container-fluid1 
+{border-top: 20px;
+padding:60px 200px 60px 200px;}
+p
+{color:whitesmoke;}
+a
+{font-family:sans-serif;}
+h1,h3,h5
+{letter-spacing :3px;}
+
+body{
+    background-size:cover;
+    background: url(imageS/network-4556932.jpg) no-repeat fixed;
+}
+hr{
+    background: white;	
+}
+
+.red{color:rgb(252, 38, 0);}
+.green{color:rgb(5, 189, 75)}
+.pink{color:rgb(202, 10, 202)}
+.yellow{color:rgb(107, 107, 0);}
+.color{color:rgb(1, 59, 61);}
+
+
+
+@media(max-width:768px)
+{
+    .idx
+    {padding:  30px 50px 30px 50px;
+    }  
+.i
+{min-height: 10%;}
+
+.navbar
+{height:fit-content;}  
+   
+img
+{max-width: 100%;
+height: auto; }
+
+.container-fluid1
+{padding: 20px 40px 20px 40px;}
+
+
+    
+.col-lg-3
+{padding: 40px 0 40px 0;}
+ 
+
+.container-fluid
+{padding: 18px 20px 1px 20px;}
+
+
+
+h1{font-size:1.25rem;}
+
+h2,h4,h3
+{font-size:1.0rem;}
+
+.mt
+{font-size:1.35rem;}
+
+.nav-link
+{font-size:1rem;}
+
+.id,p,h5
+{font-size:1rem;}
+
+.container-fluid
+ {
+height: auto;}
+ 
+.hr
+{width:1px;}
+
+
+
+
+ }
