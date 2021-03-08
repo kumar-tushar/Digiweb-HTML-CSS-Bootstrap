@@ -8,7 +8,7 @@ a
 
 footer
 {padding-top: 0.5em;
-background-color:rgb(13, 43, 61);}
+background-color: rgb(22, 77, 110);}
 
 h1,h3,h5
 {letter-spacing :3px;}
@@ -73,7 +73,8 @@ height:470px;}
 {padding: 10px 20px 10px 20px;}
 
 .a{color:rgba(241, 13, 13, 0.781);}
-.b{color:rgb(32, 245, 50)}
+.b{color: rgb(20, 136, 76)
+}
 .c{color:rgba(189, 139, 15, 0.856);}
 .d{color:rgba(127, 4, 189, 0.911);}
 
