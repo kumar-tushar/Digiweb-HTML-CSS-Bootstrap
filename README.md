@@ -1,4 +1,4 @@
-# Website for "Digital Marketing & Web Development Company", developed in HTML5 CSS3 & Bootstrap 4
+# Website for "Digital Marketing & Web Development Company", developed in HTML5, CSS3 & Bootstrap 4
 
 GitHub Page https://kumartushar593.github.io/Business-Website-Rayman
 
