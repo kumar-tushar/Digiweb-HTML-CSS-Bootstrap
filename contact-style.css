@@ -1,0 +1,111 @@
+
+
+.idd{padding: 50px 80px 50px  80px;}
+
+footer
+{padding-top: 0.5em;
+background-color:rgb(22, 77, 110);
+}
+
+.navbar
+{height: 70px;}
+
+.mt-2,.nav-link
+{font-size:19px;}
+
+h3
+{color:white;
+font-weight:bolder;
+font-size:25px;}
+
+h5
+{color:black;}
+
+h1
+{
+color:white;
+font-weight: bold;
+font-size:30px;
+font-family:sans-serif; }
+
+p
+{color:whitesmoke;}
+a
+{font-family:sans-serif;}
+h1,h3,h5
+{letter-spacing :1.5px;}
+
+body{
+    background-size:cover;
+    background: url(imageS/network-4556932.jpg) no-repeat fixed ;
+}
+hr{
+    background: white;	
+}
+
+.contact-form{
+    background:rgba(0, 0, 0, 0.425);
+  
+    margin-top: 150px;
+    margin-bottom: 150px;
+   
+    padding: 30px 40px 30px 40px;
+    box-shadow: 0 0 10px 3px rgb(2, 0, 0);
+}
+.form-field
+{
+padding:10px 50px 10px 50px ;
+}
+.form-control
+{
+background:rgba(189, 247, 255, 0.116);
+border-radius: 0;
+
+border:0;
+font-size:18px;
+border-bottom: 1px solid white;
+}
+
+.label{font-size: 20px;
+font-weight: bolder;
+color:white;
+font-family:Georgia, 'Times New Roman', Times, serif}
+
+
+@media(max-width:768px)
+{
+    
+.i
+{min-height: 10%;}
+
+.navbar
+{height:fit-content;}  
+   
+img
+{max-width: 100%;
+height: auto; }
+
+    
+.col-lg-3
+{padding: 40px 0 40px 0;}
+ 
+
+
+h1,h2,h4,h3
+{font-size:1.45rem;}
+
+.mt
+{font-size:1.35rem;}
+
+.nav-link
+{font-size:1rem;}
+
+.id,p,h5
+{font-size:1rem;}
+
+.hr
+{width:1px;}
+
+.contact-form{padding: 20px 15px 20px 15px;}
+}
+
