@@ -3,7 +3,8 @@
 font-family: 'Anton', sans-serif;}
 footer
 {padding-top: 0.5em;
-background-color:rgb(13, 43, 61);}
+background-color:rgb(22, 77, 110);
+}
 
 .navbar
 {height: 70px;}
@@ -18,8 +19,11 @@ font-size:25px;}
 
 
 h5
-{color:black;
-font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;}
+{color:black;}
+
+.i{font-weight: 500;
+letter-spacing: 0.5px;}
+
 .container-fluid 
 {padding:40px 80px 40px 80px;
 height:470px;}
@@ -34,7 +38,9 @@ font-size:30px;
     background: url(images/network-4556932.jpg) no-repeat fixed ;
 
 }
-
+.img{
+   padding:0 200px 0 200px;
+}
 .container-fluid1 
 {border-top: 20px;
 padding:60px 200px 60px 200px;}
@@ -42,7 +48,7 @@ p
 {color:whitesmoke;}
 a
 {font-family:sans-serif;}
-h1,h3,h5
+h1
 {letter-spacing :3px;}
 
 body{
@@ -75,7 +81,7 @@ hr{
 img
 {max-width: 100%;
 height: auto; }
-
+ .img{padding:20px 10px 20px 10px;}
 .container-fluid1
 {padding: 20px 40px 20px 40px;}
 
@@ -92,6 +98,9 @@ height: auto; }
 
 h1{font-size:1.25rem;}
 
+
+
+
 h2,h4,h3
 {font-size:1.0rem;}
 
@@ -101,15 +110,17 @@ h2,h4,h3
 .nav-link
 {font-size:1rem;}
 
-.id,p,h5
+h5,.id,p
 {font-size:1rem;}
+
+
 
 .container-fluid
  {
 height: auto;}
  
 .hr
-{width:1px;}
+{width:100px;}
 
 
 

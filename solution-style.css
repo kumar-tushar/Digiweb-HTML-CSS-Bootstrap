@@ -1,0 +1,116 @@
+.navbar
+{height: 70px;}
+
+
+footer
+{padding-top: 0.5em;
+background-color:rgb(22, 77, 110);
+}
+
+.mt-2,.nav-link
+{font-size:19px;}
+
+    
+h3
+{color:rgba(0, 7, 36, 0.986);
+font-weight:bolder;
+font-size:25px;}
+
+h5
+{color:black;}
+
+h1
+{
+    color:rgb(13, 43, 61);
+font-weight: bolder;
+font-size:30px;}
+
+h1
+{font-style:italic;
+}
+.card-title{font-weight: bolder;}
+p
+{color:black;}
+
+i{color:white;}
+
+.id
+{color:black;
+ letter-spacing:0;
+ font-weight:450;
+ font-size:19px;
+ padding: 0 0 0 0;}
+
+
+.container-fluid1,.card
+{
+    background: url(images/network-4556932.jpg) no-repeat fixed ;
+
+}
+
+.container-fluid1 
+{border-top: 20px;
+padding:100px 100px 100px 100px;}
+
+
+
+
+.card
+{padding: 20px 40px 20px 40px;
+border:1px transparent ;}
+
+
+
+@media(max-width:768px)
+{
+    
+.i
+{min-height: 10%;}
+
+.navbar
+{height:fit-content;}  
+   
+img
+{max-width: 100%;
+height: auto; }
+
+.container-fluid1
+{padding: 20px 40px 20px 40px;}
+
+
+.col-lg-3
+{padding: 40px 0 40px 0;}
+ 
+
+
+.card
+{padding: 5px 5px 5px 5px;}
+
+h1,h2,h4,h3
+{font-size:1.45rem;}
+
+.mt
+{font-size:1.35rem;}
+
+.nav-link
+{font-size:1rem;}
+
+.id,p,h5
+{font-size:1rem;}
+
+.container-fluid
+ {
+height: auto;}
+ 
+.hr
+{width:1px;}
+
+}
+
+
+
+
+
+
+
+
