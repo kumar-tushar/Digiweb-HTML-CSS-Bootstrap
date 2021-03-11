@@ -6,8 +6,3 @@ https://kumartushar593.github.io/Business-Website-Rayman
 #
 
 LinkedIn: [Rayman Kour Sodhi](https://www.linkedin.com/in/rayman-kour-sodhi-997b651a3) | [Tushar Kumar Verma](https://www.linkedin.com/in/kumar-tushar) | [UAceIt](https://www.linkedin.com/company/uaceit-ace-at-your-own-pace)
-
-
-
-LinkedIn: [Rayman Kour Sodhi](https://www.linkedin.com/in/rayman-kour-sodhi-997b651a3) | [Tushar Kumar Verma](https://www.linkedin.com/in/kumar-tushar) | [UAceIt](https://www.linkedin.com/company/uaceit-ace-at-your-own-pace)
- 
