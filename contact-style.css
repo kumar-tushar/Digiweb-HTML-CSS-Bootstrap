@@ -26,14 +26,14 @@ h1
 color:white;
 font-weight: bold;
 font-size:30px;
-font-family:sans-serif; }
+ }
 
 p
 {color:whitesmoke;}
-a
-{font-family:sans-serif;}
-h1,h3,h5
-{letter-spacing :1.5px;}
+
+h1
+{letter-spacing :2px;}
+h3{letter-spacing: 1px;}
 
 body{
     background-size:cover;
@@ -69,7 +69,7 @@ border-bottom: 1px solid white;
 .label{font-size: 20px;
 font-weight: bolder;
 color:white;
-font-family:Georgia, 'Times New Roman', Times, serif}
+}
 
 
 @media(max-width:768px)

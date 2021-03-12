@@ -26,8 +26,8 @@ font-weight: bolder;
 font-size:30px;}
 
 h1
-{font-style:italic;
-}
+{letter-spacing :2px;}
+h3{letter-spacing: 1px;}
 .card-title{font-weight: bolder;}
 p
 {color:whitesmoke;}
@@ -36,7 +36,7 @@ i{color:white;}
 
 .id
 {color:black;
- letter-spacing:1px;
+
  font-weight:450;
  font-size:19px;
  padding: 0 0 0 0;}

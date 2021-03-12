@@ -1,11 +1,13 @@
 .idx
 {padding:  65px 30px 65px 30px;
-font-family: 'Anton', sans-serif;}
+}
 footer
 {padding-top: 0.5em;
 background-color:rgb(22, 77, 110);
 }
-
+h1
+{letter-spacing :2px;}
+h3{letter-spacing: 1px;}
 .navbar
 {height: 70px;}
 
@@ -46,8 +48,7 @@ font-size:30px;
 padding:60px 200px 60px 200px;}
 p
 {color:whitesmoke;}
-a
-{font-family:sans-serif;}
+
 h1
 {letter-spacing :3px;}
 

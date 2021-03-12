@@ -27,8 +27,8 @@ font-weight: bolder;
 font-size:30px;}
 
 h1
-{font-style:italic;
-}
+{letter-spacing :2px;}
+h3{letter-spacing: 1px;}
 .card-title{font-weight: bolder;}
 p
 {color:black;}
@@ -42,7 +42,7 @@ i{color:white;}
  font-size:19px;
  padding: 0 0 0 0;}
 
-
+ .card-title{font-weight: bolder;}
 .container-fluid1,.card
 {
     background: url(images/network-4556932.jpg) no-repeat fixed ;
