@@ -1,5 +1,5 @@
 # Website for "Digital Marketing & Web Development Company", developed in HTML5, CSS3 & Bootstrap 4
-https://kumartushar593.github.io/Business-Website-Rayman
+https://kumar-tushar.github.io/Business-Website-by-Mentee-Rayman
 #
 * Website was developed by Mentee "Rayman Kour Sodhi" in "UAceIt's Winter of Mentorship 2021 Program"
 * "Tushar Kumar Verma" was the Mentor of "Rayman Kour Sodhi"
